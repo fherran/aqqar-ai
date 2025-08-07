@@ -1,5 +1,5 @@
 <div align="center" id="top">
-  <img src="https://github.com/ElseFaisal/aqqar-ai-agents/blob/main/Aqqar%20AI%20Agents.png" width="900" alt="Profile Readme Generator" />
+  <img src="https://github.com/ElseFaisal/aqqar-ai-agents/blob/main/resources/Aqqar%20AI%20Agents.png" width="900" alt="Aqqar AI Agens Logo" />
 </div>
 
 <div align="center">
@@ -14,8 +14,4 @@
 
 ## :dart: About ##
 
-<<<<<<< HEAD
-This repository showcases my work on developing AI-driven solutions for real-world use cases I encounter during my part-time role at a real estate company. My primary goal is to streamline and automate routine, manually performed tasks using smart AI applications—such as autonomous agents—ultimately contributing to the digital transformation of the real estate industry
-=======
 This repository showcases my work on developing AI-driven solutions for real-world use cases I encounter during my part-time role at a real estate company. My primary goal is to streamline and automate routine, manually performed tasks using smart AI applications—such as **autonomous agents**—ultimately contributing to the digital transformation of the real estate industry.
->>>>>>> cd4aa45bafde2fbf3bca0861d99cd9b5c38d54a5

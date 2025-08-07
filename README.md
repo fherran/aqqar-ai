@@ -14,4 +14,4 @@
 
 ## :dart: About ##
 
-TBD
+This repository showcases my work on developing AI-driven solutions for real-world use cases I encounter during my part-time role at a real estate company. My primary goal is to streamline and automate routine, manually performed tasks using smart AI applications—such as **autonomous agents**—ultimately contributing to the digital transformation of the real estate industry.

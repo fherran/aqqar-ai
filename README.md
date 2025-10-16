@@ -1,5 +1,5 @@
 <div align="center" id="top">
-  <img src="https://github.com/ElseFaisal/aqqar-ai-agents/blob/main/resources/Aqqar%20AI%20Agents.png" width="900" alt="Aqqar AI Agens Logo" />
+  <img src="https://github.com/ElseFaisal/aqqar-ai-agents/blob/main/resources/Aqqar%20AI.png" width="900" alt="Aqqar AI Logo" />
 </div>
 
 <div align="center">

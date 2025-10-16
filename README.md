@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Aqqar AI Agents</h1>
+  <h1>Aqqar AI</h1>
   <h3>The repo for all AI Agents in Aqqar (Real-Estate)</h3>
 </div>
 
